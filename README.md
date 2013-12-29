@@ -10,7 +10,6 @@ Published: [Code of Conduct](http://railsbridge.github.io/code-of-conduct/)
 
 # Editing Instructions
 
-
 Fork this repo -- this makes a copy in your github account
 
 Edit markdown (.md) files at the root directory or functional/visual design in _layouts, javascripts, stylesheets.  
