@@ -1,6 +1,6 @@
 # Code of Conduct 
 
-Published: [Code of Conduct](http://railsbridge.github.io/code-of-conduct/)
+Published: [Code of Conduct](http://bridgefoundry.org/code-of-conduct/)
 
 ## TO DO
 
