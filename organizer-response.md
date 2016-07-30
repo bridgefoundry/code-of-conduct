@@ -11,6 +11,7 @@ If someone reports harassment:
 2. Provided that everyone is safe, step into a private or quiet location, and ask the individual if they would write down the details if they haven't already or tell them to you as you write them down. If you are not an organizer and they are 'line of sight' discretely get their attention.  If you are a volunteer and you feel like you can't handle hearing about harassment calmly or are uncomfortable in this role, ask the person to wait and find an organizer immediately.
 
 The report should contain:
+
 * Identifying information about the person who harassed you
 * The behavior that was in violation of our anti-harassment policy [URL]
 * The approximate time of the behavior
@@ -64,9 +65,11 @@ As soon as possible after that meeting, let the harasser know what action is bei
 
 
 Hotline: 
+
 * 
 
 Additional contacts:
+
 * ...
 * Bridge Foundry Leadership
 
@@ -77,4 +80,6 @@ Adapted from [GeekFeminism wiki: Responding to Reports](http://geekfeminism.wiki
 
 * generalize 911 instructions for non-US events
 * replace "something something"
-
+* add Hotline
+* add additional contacts
+* add contact for "(send written report to: ...)"
