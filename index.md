@@ -25,3 +25,4 @@ The following organizations are Bridge Foundry projects or partners and agree to
 * ClojureBridge
 * GoBridge
 * RailsBridge
+* ScalaBridge
