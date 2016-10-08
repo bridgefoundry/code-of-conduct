@@ -6,7 +6,7 @@ layout: default
 
 If someone reports harassment:
 
-1. If it is an emergency, if someone is injured or in danger, do not hesitate to call 911, then notify the organizers. Safety is always our first priority.
+1. If it is an emergency, if someone is injured or in danger, do not hesitate to call the police (911 in the US), then notify the organizers. Safety is always our first priority.
  
 2. Provided that everyone is safe, step into a private or quiet location, and ask the individual if they would write down the details if they haven't already or tell them to you as you write them down. If you are not an organizer and they are 'line of sight' discretely get their attention.  If you are a volunteer and you feel like you can't handle hearing about harassment calmly or are uncomfortable in this role, ask the person to wait and find an organizer immediately.
 
@@ -78,7 +78,6 @@ Adapted from [GeekFeminism wiki: Responding to Reports](http://geekfeminism.wiki
 
 ## TO DO
 
-* generalize 911 instructions for non-US events
 * replace "something something"
 * add Hotline
 * add additional contacts
