@@ -61,8 +61,9 @@ Neither the complainant nor the alleged harasser should attend. (If the event wa
 
 As soon as possible, either before or during the above meeting, let the alleged harasser know that there is a complaint about them, let them tell someone their side of the story and that person takes it into the meeting.
 
-As soon as possible after that meeting, let the harasser know what action is being taken. Let them know that they may appeal to Leadership Contact below, but in the meantime the action stands. "If you'd like to discuss this further, please contact XYZ, but in the meantime, you must something something"
+As soon as possible after that meeting, let the harasser know what action is being taken. Let them know that they may appeal to Leadership Contact below, but in the meantime the action stands. 
 
+Originally adapted from [GeekFeminism wiki: Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
 
 Hotline: 
 
@@ -70,15 +71,12 @@ Hotline:
 
 Additional contacts:
 
-* ...
-* Bridge Foundry Leadership
+* General questions: [hello@bridgefoundry.org](mailto:hello@bridgefoundry.org)
+* Bridge Foundry Program Director, Sarah Allen: (224) 801-2358
 
-Adapted from [GeekFeminism wiki: Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
 
 
 ## TO DO
 
-* replace "something something"
 * add Hotline
-* add additional contacts
 * add contact for "(send written report to: ...)"
