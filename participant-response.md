@@ -10,7 +10,7 @@ If it is an emergency, if you are injured, or feel threatened, do not hesitate t
 
 2. Report the harassment incident to an organizer, preferably in writing.  This report will be kept confidential between organizers and counseling advisors; however, if the organizer feels anyone is in danger, police or security will be notified.  The report should include:
 * Identifying information about the person who harassed you
-* The behavior that was in violation of our anti-harassment policy [URL]
+* The behavior that was in violation of our  [anti-harassment policy](anti-harrassment-policy.html)
 * The approximate time of the behavior
 * The circumstances surrounding the incident
 * Other people involved
