@@ -65,18 +65,10 @@ As soon as possible after that meeting, let the harasser know what action is bei
 
 Originally adapted from [GeekFeminism wiki: Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
 
-Hotline: 
-
-* 
+## Hotline: (252) 591-1411
+If you need to report an issue or are a Bridge workshop organizer in need of advice, please call our hotline. It is staffed by volunteers who have experience facilitating workshops.  We can take a report and talk through the concern.  We will respond immediately during a workshop.  During the week, we may take a day or two to get back to you.  
 
 Additional contacts:
 
 * General questions: [hello@bridgefoundry.org](mailto:hello@bridgefoundry.org)
 * Bridge Foundry Program Director, Sarah Allen: (224) 801-2358
-
-
-
-## TO DO
-
-* add Hotline
-* add contact for "(send written report to: ...)"
