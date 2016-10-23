@@ -3,7 +3,7 @@ layout: default
 ---
 # Anti-Harassment Policy
 
-We are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion, native language, operating system choice or prior experience. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Participants violating these rules may be sanctioned or expelled from an event or virtual forum at the discretion of the organizers. 
+We are dedicated to providing a harassment-free experience for everyone, regardless of rage, age, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, religion, native language, operating system choice or prior experience. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Participants violating these rules may be sanctioned or expelled from an event or virtual forum at the discretion of the organizers. 
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion, native language, operating system choice or prior experience. 
 
