@@ -2,4 +2,4 @@
 # the following config option are github overrides
 safe: true       # Disable custom plugins
 lsi: false       # Produce an index for related posts
-pygments: true   # code syntax coloring
+highlighter: true   # code syntax coloring
