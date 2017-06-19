@@ -13,7 +13,7 @@ If someone reports harassment:
 The report should contain:
 
 * Identifying information about the person who harassed you
-* The behavior that was in violation of our [anti-harassment policy](anti-harrassment-policy.html)
+* The behavior that was in violation of our [anti-harassment policy](/code-of-conduct/anti-harrassment-policy.html)
 * The approximate time of the behavior
 * The circumstances surrounding the incident
 * Other people involved

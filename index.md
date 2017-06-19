@@ -10,12 +10,12 @@ Below are some clear examples of how to comply with the Code of Conduct
 * Do not ask anyone out on a date.
 
 ## Gray Area
-Sometimes it's not clear.  Good conduct requires judgment. There is a [gray area](gray-area.html) between warm and welcoming behavior and unacceptable.
+Sometimes it's not clear.  Good conduct requires judgment. There is a [gray area](/code-of-conduct/gray-area.html) between warm and welcoming behavior and unacceptable.
 
 ## When Things Go Wrong
 
-* [What to do if You Feel Harassed](participant-response.html)
-* [What to do as an Organizer](organizer-response.html)
+* [What to do if You Feel Harassed](/code-of-conduct/participant-response.html)
+* [What to do as an Organizer](/code-of-conduct/organizer-response.html)
 
 
 ## Participating Organizations

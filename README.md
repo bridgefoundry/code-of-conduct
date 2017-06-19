@@ -35,15 +35,8 @@ jekyll serve
 
 View site at [http://localhost:4000](http://localhost:4000)
 
-# For RailsBridge admin people 
-to  publish to gh-pages, clone this repo, then...
+# Deploying 
 
-```
-git branch --track gh-pages origin/gh-pages
-
-git checkout gh-pages
-git merge master
-git push
-```
-
+This is deployed as part of the bridgefoundry.org website. People with org
+permissions can trigger a build via Travis, if needed.
 
