@@ -71,4 +71,4 @@ If you need to report an issue or are a Bridge workshop organizer in need of adv
 Additional contacts:
 
 * General questions: [hello@bridgefoundry.org](mailto:hello@bridgefoundry.org)
-* Bridge Foundry Program Director, Sarah Allen: (224) 801-2358
+* Bridge Foundry Program Director, Sarah Allen: (909) 375-3066
